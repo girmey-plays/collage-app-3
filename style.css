@@ -1,0 +1,72 @@
+.copy_right_footer
+{
+position:fixed;
+bottom:0;
+width:100%;
+text-align: center;
+}
+
+body{
+
+background-color: aqua;
+
+}
+
+h1{
+
+font-size:25px ;
+
+font-weight: bold;
+
+font-family: comic sans-serif;
+
+color: darkblue;
+}
+
+h4{
+
+    font-size:15px ;
+
+font-style: italic;
+
+    font-family: comic sans-serif;
+    
+    color: darkblue;
+
+}
+
+#camera{
+
+width: 500px;
+
+height: 400px;
+
+border-color: darkblue;
+}
+
+img
+{
+
+width: 37%;
+
+border-radius: 5px;
+
+box-shadow:0 6px 8px 0 darkblue ;
+
+padding:10px;
+}
+
+img:hover{
+
+border-radius:140px ;
+
+}
+
+.column
+{
+
+display:inline;
+
+padding: 10px;
+
+}
